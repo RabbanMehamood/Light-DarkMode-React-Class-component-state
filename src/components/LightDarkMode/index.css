@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.darkbg {
+  background-color: black;
+  color: white;
+}
+.lightbg {
+  background-color: white;
+  color: black;
+}
